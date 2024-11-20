@@ -13,7 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div class="div-body">
+    <div class="div-banner">
        <div class="banner">
           <div class="banner_div">
             <i class="fa-solid fa-phone"></i>
@@ -27,6 +27,19 @@
             <i class="fa-solid fa-map-pin"></i>
             <p class="banner_p">56 rue du marais Villeurbanne</p>
           </div>
+       </div>
+
+       <div class="div-body">
+            <div class="div-body_corp">
+                <div> <img src="img/logo.jpg" class="logo_img"> </div>
+                <div class="div-body_navigation">
+                    <p class="body_p"> Acceuil </p>
+                    <p class="body_p"> Panier </p>
+                </div>
+            </div>
+            <div class="wallpaper">
+                <img src="img/wallpaper.jpg" class="wallpaper_img">
+            </div>
        </div>
     </div>
 </body>
